@@ -1,0 +1,8 @@
+SNAKE GAME.
+Mechanics: Snake game, start at 3 cells.
+If eat an apple:
+  Grow body by 1 cell.
+else If eat tail:
+  Die.
+
+Each cell cell should be in a vector with their x & y position.
